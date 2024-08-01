@@ -1,0 +1,53 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.card
+{
+    position: relative;
+    left: 400px;
+    height: 1320px;
+    width: 700px;
+    border: rgb(67, 3, 3) solid 5px;
+    background-color: rgb(241, 237, 231);
+}
+img
+{
+    position: relative;
+    left: 43%;
+    height: 70px;
+    width:70px
+
+}
+ul
+{
+    list-style-type: none;
+}
+.l1
+{
+    position: relative;
+    left: 300px;
+    bottom: 25px;
+}
+.tb1
+{
+    text-align: center;
+    width: 675px;
+    border: 1px solid black; 
+    border-collapse: collapse;  
+    margin-left: 10px;
+}
+.tb2
+{
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 10px;
+    border: solid black 1px;
+    border-collapse: collapse;
+    width: 675px;
+}
+input
+{
+    width: 2rem;
+    border: none;
+}
